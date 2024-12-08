@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/TRReeve/release-experiment/compare/v1.1.0...v1.2.0) (2024-12-08)
+
+
+### Features
+
+* added function for adding things ([#18](https://github.com/TRReeve/release-experiment/issues/18)) ([765084a](https://github.com/TRReeve/release-experiment/commit/765084a8901bae67d2a5798803303d54d3b75dd1))
+* app manifest ([#16](https://github.com/TRReeve/release-experiment/issues/16)) ([885b771](https://github.com/TRReeve/release-experiment/commit/885b771ad664e8fd4b4eccd1efe242bbb79729cd))
+
 ## [1.1.0](https://github.com/TRReeve/release-experiment/compare/v1.0.0...v1.1.0) (2024-12-08)
 
 
