@@ -23,13 +23,3 @@ def add_a_minux(x,y):
 def add_function(x, y ):
 
     return x + y
-
-
-def multiply_function(x, y):
-
-    return x * y
-
-
-def square_function(x, y):
-
-    return x ** y
