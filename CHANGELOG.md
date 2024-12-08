@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/TRReeve/release-experiment/compare/v1.4.0...v1.5.0) (2024-12-08)
+
+
+### Features
+
+* minus function ([#46](https://github.com/TRReeve/release-experiment/issues/46)) ([398e019](https://github.com/TRReeve/release-experiment/commit/398e019427fae6cf23a09f53629f2b0197bb55d6))
+
 ## [1.4.0](https://github.com/TRReeve/release-experiment/compare/v1.3.0...v1.4.0) (2024-12-08)
 
 
