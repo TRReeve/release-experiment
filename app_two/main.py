@@ -18,3 +18,7 @@ def feature_one(x, y):
 def feature_two(x, y):
 
     return x - y
+
+def feature_three(x,y,z):
+
+    return x * y * z
