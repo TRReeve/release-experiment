@@ -1,10 +1,9 @@
 {
-
-  "packages": {
   "include-component-in-tag": true,
   "include-v-in-tag": true,
   "tag-separator": "@",
   "separate-pull-requests": true,
+  "packages": {
     ".": {
       "changelog-path": "CHANGELOG.md",
       "release-type": "simple",
@@ -14,9 +13,11 @@
       "prerelease": false
     },
     "app_one": {
+      "component": "app_one",
       "release-type": "simple"
     },
     "app_two": {
+      "component": "app_two",
       "release-type": "simple"
     }
   },
