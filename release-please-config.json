@@ -5,6 +5,7 @@
   "separate-pull-requests": true,
   "packages": {
     ".": {
+      "always-update": true,
       "changelog-path": "CHANGELOG.md",
       "release-type": "simple",
       "bump-minor-pre-major": false,
@@ -13,10 +14,12 @@
       "prerelease": false
     },
     "app_one": {
+      "always-update": true,
       "component": "app_one",
       "release-type": "simple"
     },
     "app_two": {
+      "always-update": true,
       "component": "app_two",
       "release-type": "simple"
     }
