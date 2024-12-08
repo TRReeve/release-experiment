@@ -5,6 +5,9 @@
       "release-type": "simple",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
+      "pull-request-title-pattern": "chore: experiment{scope} release {version}",
+      "pull-request-header": "This is a custom message for PR",
+      "pull-request-footer": "Approve in circle CI to deploy",
       "draft": false,
       "prerelease": false
     }
