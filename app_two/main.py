@@ -10,6 +10,12 @@ def substract(x, y):
     return x - y 
 
 
+def sub_add(x, y):
+
+    return (x + y) * (x - y)
+
+
+
 def feature_one(x, y):
 
     return x + y
