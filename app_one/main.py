@@ -33,3 +33,8 @@ def multiply_function(x, y):
 def square_function(x, y):
 
     return x ** y
+
+
+def divide_function(x, y):
+
+    return x / y if x > 0 else 0
