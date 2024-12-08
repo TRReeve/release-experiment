@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/TRReeve/release-experiment/compare/v1.7.0...v1.8.0) (2024-12-08)
+
+
+### Features
+
+* added feature three ([#62](https://github.com/TRReeve/release-experiment/issues/62)) ([d037b04](https://github.com/TRReeve/release-experiment/commit/d037b04447d7594fe83ca6c7df0b12ae8b29ee31))
+
 ## [1.7.0](https://github.com/TRReeve/release-experiment/compare/v1.6.0...v1.7.0) (2024-12-08)
 
 
