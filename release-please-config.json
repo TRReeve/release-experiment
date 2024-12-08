@@ -8,12 +8,8 @@
       "draft": false,
       "prerelease": false
     },
-    "app_one": {
-      "release-type": "simple"
-    },
-    "app_two": {
-      "release-type": "simple"
-    }
+    "app_one": {},
+    "app_two": {}
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
 }
