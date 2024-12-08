@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.7.0](https://github.com/TRReeve/release-experiment/compare/v1.6.0...v1.7.0) (2024-12-08)
+
+
+### Features
+
+* first impl ([3cfa7c8](https://github.com/TRReeve/release-experiment/commit/3cfa7c82fd6b9482c9074d383ceb6ecd127e893d))
+* second impl ([3cfa7c8](https://github.com/TRReeve/release-experiment/commit/3cfa7c82fd6b9482c9074d383ceb6ecd127e893d))
+* sub add function ([#61](https://github.com/TRReeve/release-experiment/issues/61)) ([7e5545d](https://github.com/TRReeve/release-experiment/commit/7e5545d8855330d3f73f76a9a84756cf89836c7b))
+* sub feature 1 ([3de9218](https://github.com/TRReeve/release-experiment/commit/3de9218b39da4a50829e8dfc6757bf20f74b187d))
+* sub feature 2 ([0f60596](https://github.com/TRReeve/release-experiment/commit/0f6059668f32feedc7e2ebbcb75cdade63b75595))
+
 ## [1.6.0](https://github.com/TRReeve/release-experiment/compare/v1.5.0...v1.6.0) (2024-12-08)
 
 
