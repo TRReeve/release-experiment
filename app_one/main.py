@@ -38,3 +38,8 @@ def square_function(x, y):
 def divide_function(x, y):
 
     return x / y if x > 0 else 0
+
+
+def random_other_function(x, y):
+
+    return "I don't know"
