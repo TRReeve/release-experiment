@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/TRReeve/release-experiment/compare/app_one@v1.3.0...app_one@v1.4.0) (2024-12-08)
+
+
+### Features
+
+* minus function ([#46](https://github.com/TRReeve/release-experiment/issues/46)) ([398e019](https://github.com/TRReeve/release-experiment/commit/398e019427fae6cf23a09f53629f2b0197bb55d6))
+
 ## [1.3.0](https://github.com/TRReeve/release-experiment/compare/app_one@v1.2.0...app_one@v1.3.0) (2024-12-08)
 
 
