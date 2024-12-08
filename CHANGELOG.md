@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.6.0](https://github.com/TRReeve/release-experiment/compare/v1.5.0...v1.6.0) (2024-12-08)
+
+
+### Features
+
+* **app_one:** multiplication function ([df27c50](https://github.com/TRReeve/release-experiment/commit/df27c500f325bb5579006112436191f5482223c6))
+* **app_one:** power function ([df27c50](https://github.com/TRReeve/release-experiment/commit/df27c500f325bb5579006112436191f5482223c6))
+* multiple function ([#52](https://github.com/TRReeve/release-experiment/issues/52)) ([181e19f](https://github.com/TRReeve/release-experiment/commit/181e19f3f3c5188db4b844fe59a1d463554fe4c9))
+* multiplication function ([976e3ec](https://github.com/TRReeve/release-experiment/commit/976e3ecb8a19d91c6200f1dedfc6fd98c9a0a868))
+* power function ([976e3ec](https://github.com/TRReeve/release-experiment/commit/976e3ecb8a19d91c6200f1dedfc6fd98c9a0a868))
+
 ## [1.5.0](https://github.com/TRReeve/release-experiment/compare/v1.4.0...v1.5.0) (2024-12-08)
 
 
