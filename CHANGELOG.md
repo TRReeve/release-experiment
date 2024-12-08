@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/TRReeve/release-experiment/compare/v1.3.0...v1.4.0) (2024-12-08)
+
+
+### Features
+
+* multi_package_build ([#31](https://github.com/TRReeve/release-experiment/issues/31)) ([678fc9c](https://github.com/TRReeve/release-experiment/commit/678fc9cc03126eefeb2054d892cc2b122cf35a28))
+
 ## [1.3.0](https://github.com/TRReeve/release-experiment/compare/v1.2.0...v1.3.0) (2024-12-08)
 
 
